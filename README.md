@@ -1,147 +1,163 @@
-# Hi there, I'm Denis Billi 👋
+# Hi, I’m Denis Billi 👋
 
-**Senior Software Engineer · AI/ML Researcher · CNC / HMI Specialist**
+**Senior Software Engineer · Applied AI / ML Research · CNC & HMI Systems**
 
-Welcome to my GitHub profile. I’ve spent the last 15+ years building industrial-grade software in C++, Python, CAD/CAM, HMI development and CNC automation.  
-In parallel, I conduct independent research in AI, computer vision and image forensics.
+I design and build industrial-grade software at the intersection of CNC automation, HMI systems and applied artificial intelligence.  
+I have over 15 years of experience working on large-scale C++ and Python codebases for industrial machinery, CAD/CAM pipelines and real-time control interfaces.
 
----
-
-## 🔧 What I'm Working On (Behind the Scenes)
-
-Most of my work lives inside private enterprise repositories:
-
-* 🏗️ Complex software architectures for industrial automation  
-* ⚙️ Modernization, refactoring and performance tuning of large C++ codebases  
-* 📐 CNC-oriented computational geometry and advanced HMI systems  
-* 🔍 Internal tools, QA automation and predictive maintenance R&D
-
-I also maintain several private research repositories:
-
-* 🌓 Spectrum Analyzer (AI-generated vs real image detection)  
-* 🎞️ StoryHash (video fingerprinting and temporal embeddings)  
-* 🧩 Vortex Engine / Neon Excape (voxel/isometric engine and procedural simulation)  
-* 🤖 AI Agents and internal MLOps tooling
-
-These private repositories represent an important part of my ongoing research.
+Alongside my industrial work, I conduct independent research in computer vision, image forensics and AI system reliability.
 
 ---
 
-## 📄 Publications
+## 🧠 Professional Focus
 
-I publish research in image forensics, AI explainability and synthetic image detection.
+Most of my day-to-day work happens inside private enterprise repositories and NDA-bound environments.  
+My main areas of activity include:
 
-* **Spectrum Analyzer: A Practical Approach to AI-Generated Image Detection**  
-  Methods, benchmarks and analysis using spectral-domain techniques.  
-  *(preprint / technical report)*
+- Architecture and long-term maintenance of complex industrial software systems  
+- Refactoring and modernization of legacy C++ codebases  
+- CNC-oriented computational geometry and multi-axis kinematics  
+- HMI design for safety-critical and production environments  
+- Internal tooling, QA automation and applied ML for diagnostics and prediction  
 
-* **StoryHash: Towards Temporal Fingerprinting of Video Content**  
-  Framework for video identity tracking using temporal embeddings.  
-  *(preprint / technical report)*
-
-More publications will be added as they become publicly available.
-
----
-
-## 🗂️ Public Datasets & Research Material
-
-Supporting repositories for my open research:
-
-* **[AIvsREAL Dataset](https://github.com/denisbilli/AIvsREAL)**  
-  Large-scale dataset for real vs AI-generated image detection.
-
-* **[Spectrum Analyzer – Public Tools](https://github.com/denisbilli/spectrum-analyzer-tools)**  
-  Notebooks, tools and experiments.
-
-* **[CIFAKE-Extended](https://github.com/denisbilli/CIFAKE-Extended)**  
-  Extended version of CIFAKE for forensics benchmarking.
-
-* **[Image Forensics Experiments](https://github.com/denisbilli/image-forensics-experiments)**  
-  Reference notebooks and scripts for my open experiments.
+This profile represents the **public-facing subset** of that work.
 
 ---
 
-## 📝 Patents & Industrial IP
+## 🔬 Research & Experimental Work
+
+I maintain several research projects focused on AI robustness, interpretability and content authenticity:
+
+- 🌓 **Spectrum Analyzer** (internal)  
+  Spectral-domain methods for detecting AI-generated images versus real imagery.
+
+- 🎞️ **StoryHash** (internal)  
+  Temporal fingerprinting of video content using sequence embeddings.
+
+- 🧩 **Vortex Engine / Neon Excape** (private)  
+  An isometric voxel engine with procedural generation and simulation-oriented design.
+
+- 🤖 **AI Agents & MLOps Tooling** (private)  
+  Internal frameworks for agent-based workflows, evaluation and cost-aware inference.
+
+Public material is released selectively when it reaches a stable and reproducible state.
+
+---
+
+## 📄 Publications & Paper Artifacts
+
+Peer-facing repositories associated with my research:
+
+- 📘 **Spectral Generalization for Synthetic Image Detection**  
+  Dataset, code and experimental material.  
+  https://github.com/denisbilli/spectral-generalization-paper
+
+- 📙 **StoryHash: Temporal Fingerprinting of Video Content**  
+  Data, notebooks and experimental code.  
+  https://github.com/denisbilli/storyhash-paper
+
+Additional research outputs will be linked here as they become publicly available.
+
+---
+
+## 🗂️ Public Repositories & Research Material
+
+Selected public projects and utilities:
+
+- ⚙️ **qDBManager**  
+  Lightweight ORM / entity manager for Qt.  
+  https://github.com/denisbilli/qDBManager
+
+- 🕹️ **Asteroids**  
+  C++ implementation of the classic arcade game.  
+  https://github.com/denisbilli/Asteroids
+
+- 🗺️ **gmplot** *(contributor)*  
+  Python library for plotting data on Google Maps.  
+  https://github.com/vgm64/gmplot
+
+- 🖼️ **PyImgDuplicateFinder**  
+  Script to detect and move duplicate images using similarity heuristics.  
+  https://github.com/denisbilli/PyImgDuplicateFinder
+
+- 🧪 **PyQuizMakerAdvanced**  
+  Python-based interactive quiz maker.  
+  https://github.com/denisbilli/PyQuizMakerAdvanced
+
+---
+
+## 🧠 How I Work
+
+I focus on systems that must remain **correct, explainable and maintainable** over time.
+
+My approach is shaped by:
+- long-lived industrial software rather than short-lived prototypes  
+- constraints-driven design (hardware, safety, latency, cost)  
+- skepticism toward black-box solutions in production environments  
+- preference for measurable improvements over theoretical elegance  
+
+I tend to work at the boundary between  
+**software architecture, mathematical modeling and real-world constraints**.
+
+---
+
+## 🧭 Engineering Values
+
+- correctness before cleverness  
+- explainability over blind optimization  
+- tools must earn their complexity  
+- production is the real benchmark  
+
+---
+
+## 🧾 Patents & Industrial IP
 
 I am inventor or co-inventor of multiple software patents related to:
 
-* 🖥️ HMI interfaces and workflow logic for CNC industrial machinery  
-* 🪚 CAD/CAM automation, process optimization and machine control  
+- 🖥️ HMI workflows and interaction models for CNC machinery  
+- 🪚 CAD/CAM automation and machine control logic  
 
-Full details available upon request where NDA constraints allow disclosure.
+Details are available where disclosure is permitted.
 
 ---
 
-## 🚀 Other Projects & Ventures
+## 🚀 Platforms & Side Projects
 
-### SnapBiz  
-A full-stack platform I designed for managing photography businesses: communication flows, customer portals, reminders, contracts and freelancer coordination.  
+### 📸 SnapBiz  
+A full-stack platform for managing photography businesses: communication flows, client portals, reminders, contracts and freelancer coordination.  
 Built with Django, Celery and REST APIs.  
-Now evolving into a SaaS with data-driven analytics and AI-assisted communication.
+Currently evolving into a SaaS with analytics and AI-assisted workflows.
 
-### Scribit.ai  
-A lightweight speech-to-text platform based on Whisper pipelines, batching strategies and a minimal microservice architecture.
+### ✍️ Scribit.ai  
+A lightweight speech-to-text platform based on Whisper pipelines and microservice batching strategies.
 
-### CNC / CAM Tools & R&D  
-Private tools for:  
-* 🌀 5-axis angle computation and toolpath geometry  
-* ✍️ ISO code generation and CNC post-processing  
-* 🧪 Machine simulation  
-* 📊 Predictive diagnostics and ML-based pattern analysis
+### 🌀 CNC / CAM R&D Tools  
+Private tools covering:
+- 5-axis kinematics and angle computation  
+- ISO code generation and post-processing  
+- Machine simulation and validation  
+- ML-based diagnostics and pattern analysis  
 
-### Vortex Engine / Neon Excape  
-An isometric voxel engine with procedural maps and lightweight rendering optimizations.
-
-### Teaching & Open Knowledge  
-Mentor for students on ML, game development and computational geometry.  
-Author of internal workshops on Git, CNC/HMI architecture and AI explainability.
+### 🎓 Teaching & Knowledge Sharing  
+Mentoring students on ML, game development and computational geometry.  
+Author of internal workshops on Git workflows, CNC/HMI architecture and AI explainability.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 
-<p align="left">  
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />  
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
-</p>
+C++, Python, Qt, CMake, Linux, Git  
+with extensive experience in CAD/CAM pipelines, CNC controllers and industrial software lifecycles.
 
 ---
 
-## ⭐ Featured Public Projects
-
-* **[qDBManager](https://github.com/denisbilli/qDBManager)** – Lightweight ORM/Entity Manager for Qt  
-* **[Asteroids](https://github.com/denisbilli/Asteroids)** – C++ implementation of the classic arcade game  
-* **[gmplot](https://github.com/denisbilli/gmplot)** – Contributor to the Python Google Maps plotting library  
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=denisbilli&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisbilli&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />  
-</p>
-
----
-
-<p align="center">  
-  <a href="https://www.denisbilli.it">🌐 Visit my Website</a> •  
-  <a href="https://www.linkedin.com/in/denisbilli">💼 Connect on LinkedIn</a>  
-</p>
-
----
-
-## 🧭 Why This Profile Matters
+## 🧭 Why This Profile Exists
 
 This profile reflects:
 
-* deep industrial experience in CNC/HMI systems and complex software engineering  
-* a concrete commitment to open AI research and image forensics  
-* a blend of enterprise-grade engineering and independent scientific output  
-* parallel work on platforms, tools and projects used in real-world contexts  
+- deep industrial experience in CNC and HMI systems  
+- applied AI research grounded in real-world constraints  
+- a balance between enterprise software engineering and independent research  
+- a preference for depth, correctness and reproducibility over hype  
 
-For collaborations, research discussions or inquiries, feel free to reach out.
+For technical discussions, research collaboration or professional inquiries, feel free to reach out.
