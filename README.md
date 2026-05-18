@@ -28,6 +28,11 @@ This profile represents the **public-facing subset** of that work.
 
 I maintain several research projects focused on AI robustness, interpretability and content authenticity:
 
+- 🛰️ **Ground Control** *(public)*  
+  Discrete-time simulator for DTN policy analysis in LEO satellite constellations.
+  50 experiments documented; results validated on real OneWeb TLE data via SGP4.  
+  https://github.com/denisbilli/ground-control-public
+
 - 🌓 **Spectrum Analyzer** (internal)  
   Spectral-domain methods for detecting AI-generated images versus real imagery.
 
@@ -48,7 +53,12 @@ Public material is released selectively when it reaches a stable and reproducibl
 
 Peer-facing repositories associated with my research:
 
-- 📘 **Spectral Generalization for Synthetic Image Detection**  
+- �️ **Ground Control — LEO Satellite Network Policy Simulator**  
+  Falsification-driven policy analysis for LEO constellations: DTN routing,
+  gateway placement, SLA trade-off. 50 experiments, real OneWeb TLE data, open whitepaper.  
+  https://github.com/denisbilli/ground-control-public
+
+- �📘 **Spectral Generalization for Synthetic Image Detection**  
   Dataset, code and experimental material.  
   https://github.com/denisbilli/spectral-generalization-paper
 
@@ -63,6 +73,10 @@ Additional research outputs will be linked here as they become publicly availabl
 ## 🗂️ Public Repositories & Research Material
 
 Selected public projects and utilities:
+
+- 🛰️ **ground-control-public**  
+  Simulation engine and whitepaper for LEO network policy analysis.  
+  https://github.com/denisbilli/ground-control-public
 
 - ⚙️ **qDBManager**  
   Lightweight ORM / entity manager for Qt.  
