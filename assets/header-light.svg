@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Denis Billi, Senior Software Engineer">
+<rect width="1200" height="330" fill="none"/>
+<rect x="28" y="28" width="1140" height="270" fill="#111111"/>
+<rect x="20" y="20" width="1140" height="270" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+<rect x="20" y="20" width="1140" height="44" fill="#e5ff00" stroke="#111111" stroke-width="3"/>
+<circle cx="48" cy="42" r="7" fill="none" stroke="#111111" stroke-width="2.5"/><circle cx="72" cy="42" r="7" fill="none" stroke="#111111" stroke-width="2.5"/><circle cx="96" cy="42" r="7" fill="#111111"/>
+<text x="580.0" y="48" text-anchor="middle" font-family="'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#111111">denis@billi: ~</text>
+<g font-family="'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<text x="56" y="112" font-size="20" fill="#8a8a8a">$ <tspan fill="#111111">whoami</tspan></text>
+<text x="56" y="172" font-size="50" font-weight="700" fill="#111111">Denis Billi</text>
+<rect x="56" y="184" width="340" height="8" fill="#e5ff00"/>
+<text x="56" y="228" font-size="21" fill="#4a4a4a">Senior Software Engineer · Industrial Software · CNC/HMI · Applied AI</text>
+<text x="56" y="272" font-size="18" fill="#8a8a8a">$ <tspan fill="#111111">ls ./work</tspan>  <tspan fill="#4a4a4a">cnc-cam  hmi  legacy-modernization  applied-ai  research</tspan><tspan fill="#111111"> ▍</tspan></text>
+</g>
+</svg>
