@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" role="img" aria-label="SnapBiz: Studio management for wedding photographers: requests, contracts, team, delivery.">
+<rect width="760" height="400" fill="#1a1b26"/>
+<rect width="760" height="40" fill="#16161e"/>
+<circle cx="24" cy="20" r="6" fill="#f7768e"/><circle cx="46" cy="20" r="6" fill="#e0af68"/><circle cx="68" cy="20" r="6" fill="#9ece6a"/>
+<g font-family="'Roboto Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<text x="380.0" y="26" text-anchor="middle" font-size="15" fill="#565f89">~/repos/snapbiz</text>
+<text x="44" y="100" font-size="19" fill="#565f89">$ <tspan fill="#9ece6a">cat</tspan> <tspan fill="#a9b1d6">README.md</tspan></text>
+<text x="44" y="168" font-size="44" font-weight="700" fill="#f2f2f0">SnapBiz</text>
+<rect x="44" y="182" width="189" height="7" fill="#d8f000"/>
+<text x="44" y="236" font-size="26" fill="#a9b1d6">Studio management for wedding</text><text x="44" y="274" font-size="26" fill="#a9b1d6">photographers: requests, contracts,</text><text x="44" y="312" font-size="26" fill="#a9b1d6">team, delivery.</text>
+<rect x="44" y="334" width="93.6" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="52" y="355" font-size="19" fill="#e0af68">Django</text><rect x="149.6" y="334" width="68.4" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="157.6" y="355" font-size="19" fill="#e0af68">SaaS</text>
+</g>
+</svg>
