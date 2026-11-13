@@ -63,9 +63,9 @@ https://github.com/denisbilli/spectral-generalization-paper
 
 ### StoryHash
 
-[StoryHash](https://github.com/denisbilli/storyhash-paper) is an experimental project about temporal fingerprinting of video content.
+[StoryHash](https://github.com/denisbilli/storyhash-paper) is an experimental project about multi-modal fingerprinting of video content for robust video retrieval.
 
-The goal is to represent video sequences through stable temporal signatures, useful for similarity analysis, authenticity research and content-level comparison.
+The goal is to represent video sequences through a single compact vector that fuses visual, temporal and structural signals, useful for similarity analysis, authenticity research and content-level comparison.
 
 Repository:  
 https://github.com/denisbilli/storyhash-paper
@@ -90,17 +90,38 @@ https://github.com/denisbilli/Asteroids
 
 ### PyImgDuplicateFinder
 
-A Python utility to detect and move duplicate images using similarity heuristics.
+A Python utility to detect and move duplicate images using HaarPSI, a perceptual similarity index.
 
 Repository:  
 https://github.com/denisbilli/PyImgDuplicateFinder
 
-### PyQuizMakerAdvanced
+### QuestEd
 
-A Python-based interactive quiz maker.
+A platform for courses, exercises and assessments for teaching programming, built with Django.
 
 Repository:  
-https://github.com/denisbilli/PyQuizMakerAdvanced
+https://github.com/denisbilli/quested-platform
+
+### paperdown
+
+Markdown to PDF on the command line, with real typography instead of browser defaults.
+
+Repository:  
+https://github.com/denisbilli/paperdown
+
+### envlockup
+
+An encrypted .env you can commit: everyone decrypts it with their own SSH key, so people can be added or removed without sharing a secret.
+
+Repository:  
+https://github.com/denisbilli/envlockup
+
+### ProdKit
+
+An open-source command-line engine that reads a repository and reports what is missing before it can carry real users, judged as the kind of product it is meant to be.
+
+Repository:  
+https://github.com/denisbilli/prodkit
 
 ---
 
@@ -150,9 +171,21 @@ I write about AI, software engineering and the impact of emerging technologies o
 
 My focus is not hype, but what happens when AI enters real organizations: legacy systems, production constraints, human workflows, costs, safety, maintainability and decision-making.
 
-I publish mainly on LinkedIn and I recently opened a Substack to collect longer-form essays and research-oriented reflections.
+I publish mainly on LinkedIn and on [Substack](https://denisbilli.substack.com), where I collect longer-form essays and research-oriented reflections.
 
 I also mentor students and colleagues on Git workflows, computational geometry, machine learning, game development, CNC/HMI architecture and AI explainability.
+
+### Latest writing
+
+The essays are written in Italian.
+
+<!-- redattore:scritti:inizio -->
+- [Cosa direbbe di noi un contadino del 1750?](https://denisbilli.substack.com/p/cosa-direbbe-di-noi-un-contadino) · October 2026
+- [“Nessuno mi uccide con l’inganno, non con la forza.”](https://denisbilli.substack.com/p/nessuno-mi-uccide-con-linganno-non) · September 2026
+- [Ci vuole una città](https://denisbilli.substack.com/p/ci-vuole-una-citta) · August 2026
+- [OpenAI, Hugging Face e l’IA che ha aggirato l’esame](https://denisbilli.substack.com/p/openai-hugging-face-e-lia-che-ha) · July 2026
+- [Emma-5, l’IA italiana e il problema di quando il sogno arriva prima del prodotto](https://denisbilli.substack.com/p/emma-5-lia-italiana-e-il-problema) · June 2026
+<!-- redattore:scritti:fine -->
 
 ---
 
