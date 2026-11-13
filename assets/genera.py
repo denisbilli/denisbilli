@@ -69,7 +69,7 @@ COPERTINE = {
     "asteroids": ("Asteroids", "The classic arcade game in C++: game loop, rendering, engine basics.", ["C++", "game"], "orange"),
     "pyimgduplicatefinder": ("PyImgDuplicateFinder", "Finds and moves duplicate images with HaarPSI, a perceptual similarity index.", ["Python", "images"], "blue"),
     "snapbiz": ("SnapBiz", "Studio management for wedding photographers: requests, contracts, team, delivery.", ["Django", "SaaS"], "orange"),
-    "scribit": ("Scribit.ai", "Transcription and document translation that keeps the original layout.", ["Python", "SaaS", "AI"], "orange"),
+    "scribit": ("Scribit.ai", "Transcription and document translation that keeps the original layout.", ["Node.js", "SaaS", "AI"], "orange"),
 }
 for tema in TEMI:
     (OUT / f"header-{tema}.svg").write_text(header(tema))

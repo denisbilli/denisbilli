@@ -8,6 +8,6 @@
 <text x="44" y="168" font-size="44" font-weight="700" fill="#f2f2f0">Scribit.ai</text>
 <rect x="44" y="182" width="270" height="7" fill="#d8f000"/>
 <text x="44" y="236" font-size="26" fill="#a9b1d6">Transcription and document translation</text><text x="44" y="274" font-size="26" fill="#a9b1d6">that keeps the original layout.</text>
-<rect x="44" y="334" width="93.6" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="52" y="355" font-size="19" fill="#e0af68">Python</text><rect x="149.6" y="334" width="68.4" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="157.6" y="355" font-size="19" fill="#e0af68">SaaS</text><rect x="230.0" y="334" width="43.2" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="238.0" y="355" font-size="19" fill="#e0af68">AI</text>
+<rect x="44" y="334" width="106.2" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="52" y="355" font-size="19" fill="#e0af68">Node.js</text><rect x="162.2" y="334" width="68.4" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="170.2" y="355" font-size="19" fill="#e0af68">SaaS</text><rect x="242.6" y="334" width="43.2" height="30" fill="none" stroke="#e0af68" stroke-width="2"/><text x="250.6" y="355" font-size="19" fill="#e0af68">AI</text>
 </g>
 </svg>
