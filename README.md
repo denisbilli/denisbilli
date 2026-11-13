@@ -101,25 +101,12 @@ The goal is to represent video sequences through a single compact vector that fu
 
 ---
 
-## Teaching & Learning Tools
-
-### Git Gamification Platform
-
-Git Gamification Platform is an educational project designed to teach Git workflows through interactive challenges and game-like progression.
-
-The goal is to make version-control concepts easier to understand through practice rather than slides alone: branches, commits, merge conflicts, collaboration flows and common Git mistakes become part of an interactive learning experience.
-
-Repository:  
-https://github.com/denisbilli/GitGamificationPlatform
-
----
-
 ## Platforms and Side Projects
 
 <table>
 <tr>
 <td width="50%" valign="top"><a href="https://snapbiz.app"><img src="assets/snapbiz.svg" alt="SnapBiz" width="100%"></a><br><b><a href="https://snapbiz.app">SnapBiz</a></b><br><sub>Platform for managing photography businesses</sub></td>
-<td width="50%" valign="top"><a href="https://scribit.ai"><img src="assets/scribit.svg" alt="Scribit.ai" width="100%"></a><br><b><a href="https://scribit.ai">Scribit.ai</a></b><br><sub>Speech-to-text and meeting notes</sub></td>
+<td width="50%" valign="top"><a href="https://scribit.ai"><img src="assets/scribit.svg" alt="Scribit.ai" width="100%"></a><br><b><a href="https://scribit.ai">Scribit.ai</a></b><br><sub>Transcription and document translation</sub></td>
 </tr>
 </table>
 
@@ -128,7 +115,7 @@ https://github.com/denisbilli/GitGamificationPlatform
 Built mainly with Django, Celery, REST APIs and automation-oriented backend workflows.  
 It is progressively evolving toward a SaaS model with analytics and AI-assisted business workflows.
 
-[Scribit.ai](https://scribit.ai) is a lightweight speech-to-text and meeting-notes platform based on Whisper pipelines, backend batching strategies and microservice-oriented deployment.
+[Scribit.ai](https://scribit.ai) is a transcription and document translation platform: recordings become usable text, and Word and PDF files are translated keeping their original layout, with integrity and glossary checks.
 
 #### CNC / CAM R&D Tools
 
